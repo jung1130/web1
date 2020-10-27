@@ -1,0 +1,8 @@
+unsplash.com= 저작권 없는 사진 다운사이트
+advancedwebranking.com= 많이 사용되는 태그 그래프
+ctrl+한/영+O= 폴더선택
+ctrl+s= 저장
+ctrl누르고 커서 클릭하면 동시에 여러줄에서 입력가능
+web 폴더 우클릭 후 duplicate(복사) 누르면 같은 html 복사가능
+
+

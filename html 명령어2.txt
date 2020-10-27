@@ -1,0 +1,23 @@
+HTML
+아톰 실행 후 폴더열기 후 생성 
+우클릭 새 파일 이름지정  
+
+<strong></strong> 글자 두껍게 
+<u></u> 글자 밑에 밑줄 (중요하지 않음)
+<h1></h1> 제목 (사용시 자동 줄바꿈)
+<br> 줄바꿈 하나쓰면 줄바꿈 두개쓰면 한줄 여백 (원하는 만큼 여백을 만들 수 있음)
+<p></p> 문단 나누기 (정해진 여백만큼 줄을 바꿔 문단을 나눔)
+CSS 단어  <p style="margin-top:40px;"> margin = 태그와 태그 사이의 여백 top = 여백 위치 (위쪽 아래쪽)
+<img src=“사진이름.jpg" width="100% 또는 숫자px“>  사진 올리기 src와 width 위치는 바꿔도 상관없음
+<li></li> 한줄을 목차로 만들기 ul의 자식태그 (ul태그 안에서 tab키로 정리)
+<ul></ul> li를 어디서부터 어디까지가 연관된 항목인지 연관짓기 위해 쓰는 부모 태그
+<ol></ol> 목차에서 숫자 자동생성 (대신 앞에  점이없음)
+<title></title> 웹페이지 제목 변경
+<meta charset="utf-8"> utf-8로 저장되어있는 파일이다라는 정의로 한글이 안깨지게 해줌
+<body></body> 본문은 body태그로 묶어야한다
+<head></head> body태그를 묶는 head태그
+<html></html>모든 태그를 감싸는 최고위층 태그
+<!doctype html> html태그위에 써주는 관용적 태그
+<a href="#"></a> 링크를 걸고싶은 단어나 문장 양옆에 쓴후 #위치에 링크 붙여넣기 
+<a href="#"target="blank"title="#"></a> target="blank"=링크를 새탭에서 열기
+<a href="#"target=""title=""></a> title=""= 마우스를 링크위에 올려두었을 때 어디로 가는 링크인지 표시해줌 
